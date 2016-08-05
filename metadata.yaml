@@ -1,0 +1,31 @@
+_repo: The-Rising-of-the-Court_7447
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lawson, Henry
+    alias: Lawson, Henry Archibald Hertzberg
+    birthdate: 1867
+    deathdate: 1922
+    gutenberg_agent_id: '119'
+    url: http://www.gutenberg.org/2009/agents/119
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Lawson
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7447'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- Australia -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Australia -- Social life and customs -- Fiction'
+- GITenberg
+tableOfContents: The rising of the court -- "Roll up at Talbragar" -- Wanted by the
+  police -- The bath -- Instinct gone wrong -- The hypnotized township -- The exciseman
+  -- Mateship in Shakespeare's Rome.
+title: The Rising of the Court
+url: http://www.gutenberg.org/ebooks/7447
